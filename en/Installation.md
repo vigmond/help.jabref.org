@@ -160,6 +160,12 @@ Install JavaFX (actually OpenJFX) by executing `sudo dnf install openjfx java-1.
 1. Download rpm-file from the [Java SE Development Kit 8 Downloads] site
 2. Install with `sudo yum localinstall jre-[Version]-linux-[BIT].rpm` include the most recent Java version for `[Version]` and `i586` or `x64` for `[BIT]` depending on your OS version
 
+### OpenSUSE Leap
+
+The OpenJDK and OpenJFX packages can be installed via "one-click install" from 
+
+1. https://software.opensuse.org/package/java-1_8_0-openjdk
+2. https://software.opensuse.org/package/java-openjfx?search_term=openjfx
 
 ### Windows and Oracle Java
 
