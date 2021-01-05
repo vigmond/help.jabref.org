@@ -20,6 +20,8 @@ Download it from [downloads.jabref.org](https://downloads.jabref.org). These are
 * for Linux `bin\JabRef`.
 * for Mac, this is the file `JabRef.app`.
 
+*Hint*: Do not extract the archive to `~/bin/JabRef` as this will trigger a known java error.
+
 Be sure to activate "Load and Save preferences from/to jabref.xml on start-up \(memory stick mode\)" in Options → Preferences → General.
 
 #### Development version
